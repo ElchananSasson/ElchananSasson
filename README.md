@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elchanan Sasson
 - 🌱 Software Engineer student
 - 📫 Mail: elchanans123@gmail.com
-- 📫 Linkedin: https://www.linkedin.com/in/elchanan-sasson-1a079b1bb/?originalSubdomain=il
+- 📫 Linkedin: www.linkedin.com/in/elchanan-sasson
 
 <!---
 ElchananSasson/ElchananSasson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
