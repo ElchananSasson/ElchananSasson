@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elchanan Sasson
-- 🌱 Software Engineer student | 3rd-year
+- 🌱 Software Engineer student
 - 📫 Mail: elchanans123@gmail.com
 - 📫 Linkedin: https://www.linkedin.com/in/elchanan-sasson-1a079b1bb/?originalSubdomain=il
 
