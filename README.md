@@ -1,4 +1,4 @@
 Hi, I’m Elchanan Sasson 👋
-- 🌱 Software Engineer student
+- 🌱 Software Engineer
 - 📫 Mail: elchanans123@gmail.com
 - 📫 Linkedin: www.linkedin.com/in/elchanan-sasson
